@@ -123,49 +123,31 @@
           <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" alt="sns" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="ec2" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" alt="ec2" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="rds" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" alt="rds" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="s3" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" alt="s3" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="route53" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" alt="route53" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="vpc" width="40" height="40"/>
-        </a>
-        <a href="https://aws.amazon.com/dns/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="dns" width="40" height="40"/>
-        </a>
-        <a href="https://aws.amazon.com/ssl/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="ssl" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" alt="vpc" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/apigateway/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="apigateway" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" alt="apigateway" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="lambda" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="lambda" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="dynamodb" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" alt="dynamodb" width="40" height="40"/>
         </a>
         <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="cloudfront" width="40" height="40"/>
-        </a>
-        <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="cloudwatch" width="40" height="40"/>
-        </a>
-        <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gunicorn/gunicorn-original.svg" alt="gunicorn" width="40" height="40"/>
-        </a>
-        <a href="https://www.modsecurity.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/modsecurity/modsecurity-original.svg" alt="modsecurity" width="40" height="40"/>
-        </a>
-        <a href="https://newrelic.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/newrelic/newrelic-original.svg" alt="newrelic" width="40" height="40"/>
+          <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" alt="cloudfront" width="40" height="40"/>
         </a>
         <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
@@ -173,8 +155,6 @@
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
         </a>
-        <a href="https://locust.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/locust/locust-original.svg" alt="locust" width="40" height="40"/>
         </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
