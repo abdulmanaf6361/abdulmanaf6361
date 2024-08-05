@@ -43,7 +43,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
         </a> 
         <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
+          <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
         </a>  
       </p>
       <h3 align="left">Frontend Development:</h3>
